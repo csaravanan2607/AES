@@ -1,4 +1,4 @@
-# ADVANCED ENCRYPTION STANDARD ALGORITHM
+# Advanced encryption standard algorithm
 ## Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
